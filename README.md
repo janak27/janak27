@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://twitter.com/janakavhad" target="blank"><img src="https://img.shields.io/twitter/follow/janakavhad?logo=twitter&style=for-the-badge" alt="janakavhad" /></a> </p>
 
 - 🌱 I’m currently working at  **Tata Consultancy Services** as **Assistant System Engineer.**
-
-- 💬 Ask me about **Java, Python, Web-Dev**
-
 - 📫 You can reach me at  **avhadjanak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
