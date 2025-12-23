@@ -22,7 +22,7 @@ I build scalable, production-ready backend systems and full-stack applications. 
 
 ---
 
-## Projects In-Progress
+## What I'm Building
 **MedFlow – Distributed Pharmacy System**  
 *Ongoing*  
 Tech Stack: Java 17, Spring Boot, Spring Data JPA, Spring Security (JWT), REST APIs, PostgreSQL, Docker  
@@ -34,9 +34,8 @@ Tech Stack: Java 17, Spring Boot, Spring Data JPA, Spring Security (JWT), REST A
 
 ---
 
-## Projects Completed
-**PlaceIT: The Placement Auxiliary**  
-*June 2023*  
+## Research work
+**PlaceIT: The Placement Auxiliary**  [Link](https://ieeexplore.ieee.org/document/10263679)
 Tech Stack: Python, Django, React, Tailwind CSS, TypeScript, Scikit-learn, TensorFlow, SQLite  
 
 - Co-authored a research paper on digitizing campus placement workflows  
