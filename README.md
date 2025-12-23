@@ -14,12 +14,12 @@ I build scalable backend systems and full-stack applications, focusing on micros
 ---
 
 ## Skills
-**Java | Spring Boot | Microservices | REST APIs | React | TypeScript | PostgreSQL | Docker | AWS (Basics)**
+**Java | Spring Boot | Microservices | REST APIs | React | TypeScript | PostgreSQL | SSMS | Docker | AWS**
 
 ---
 
 ## Project
-**MedFlow – Distributed Pharmacy System** *(Ongoing)*  [Link](https://github.com/janak27/MedFlow)
+**MedFlow – Distributed Pharmacy System** [Link](https://github.com/janak27/MedFlow)
 Building a scalable pharmacy management system with Java Spring Boot microservices, PostgreSQL, and Docker.
 
 ## Research-work
