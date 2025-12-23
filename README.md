@@ -19,7 +19,7 @@ I build scalable backend systems and full-stack applications, focusing on micros
 ---
 
 ## Project
-**MedFlow – Distributed Pharmacy System** [Link](https://github.com/janak27/MedFlow)
+**MedFlow – Distributed Pharmacy System** [Link](https://github.com/janak27/MedFlow)   
 Building a scalable pharmacy management system with Java Spring Boot microservices, PostgreSQL, and Docker.
 
 ## Research-work
