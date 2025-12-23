@@ -4,7 +4,7 @@ FullStack Engineer | Java Backend | Spring Boot | Microservices | Bengaluru, IN
 ---
 
 ## About Me
-I build scalable, production-ready backend systems and full-stack applications. Experienced in designing microservices, securing APIs, and optimizing high-performance workflows.
+I build scalable backend systems and full-stack applications, focusing on microservices, secure APIs, and high-performance workflows.
 
 📄 Resume: [Link](https://drive.google.com/file/d/1GGxHRPQqxgeiHQLQH3xS6-6MNyFEcV2M/view?usp=sharing)  
 🔗 LinkedIn: [janak-avhad](https://www.linkedin.com/in/janak-avhad/)  
@@ -14,32 +14,27 @@ I build scalable, production-ready backend systems and full-stack applications. 
 ---
 
 ## Skills
-**Backend:** Java, Spring Boot, Microservices, REST APIs, Spring Security (JWT/RBAC), Resilience4j, Kafka, RabbitMQ, JUnit, Mockito, Swagger  
-**Frontend:** React, TypeScript, Tailwind CSS, Java Swing (Internal Tools)  
-**Databases:** SQL Server (SSMS), PostgreSQL, ACID Transactions, Query Optimization, Indexing, Redis (Familiarity)  
-**DevOps & Cloud:** Docker, Git, CI/CD (Basics), AWS (Basics), Maven, Postman  
-**Soft Skills:** Ownership, Problem-Solving, Reliability, Collaboration, Agile
+**Java | Spring Boot | Microservices | REST APIs | React | TypeScript | PostgreSQL | Docker | AWS (Basics)**
 
 ---
 
-## Projects / Work in Progress
-**MedFlow – Distributed Pharmacy System** *(Ongoing)*  
-Tech Stack: Java 17, Spring Boot, Spring Data JPA, Spring Security (JWT), REST APIs, PostgreSQL, Docker  
+## Project
+**MedFlow – Distributed Pharmacy System** *(Ongoing)*  [Link](https://github.com/janak27/MedFlow)
+Building a scalable pharmacy management system with Java Spring Boot microservices, PostgreSQL, and Docker.
 
-- Building a scalable **pharmacy management system** using Spring Boot microservices
-
----
-
-## Research Work
-**PlaceIT: The Placement Auxiliary**  [Link](https://ieeexplore.ieee.org/document/10263679)  
-Tech Stack: Python, Django, React, Tailwind CSS, TypeScript, Scikit-learn, TensorFlow, SQLite  
-
-- Co-authored a research paper on digitizing campus placement workflows  
-- Built predictive analytics tools for student profiling and placement support
+## Research-work
+**PlaceIT: The Placement Auxiliary** [Link](https://ieeexplore.ieee.org/document/10263679)  
+Digitized campus placement workflows using Python, Django, React, and ML models.
 
 ---
 
-## What I Love <3
+## Achievements
+- On-the-Spot Award x2 – Improved backend efficiency  
+- Star of the Team – Accelerated month-end closes
+
+---
+
+## What I Love
 - Scalable backend systems with **Java & Spring Boot**  
 - Secure and reliable **microservices architectures**  
-- Full-stack apps integrating **React + TypeScript frontends** with Spring Boot backends  
+- Full-stack apps integrating **React + TypeScript frontends**
