@@ -4,7 +4,7 @@ FullStack Engineer | Java Backend | Spring Boot | Microservices | Bengaluru, IN
 ## About Me
 I build scalable backend systems and full-stack applications, focusing on microservices, secure APIs, and high-performance workflows.
 
-📄 Resume: [Link](https://drive.google.com/file/d/1GGxHRPQqxgeiHQLQH3xS6-6MNyFEcV2M/view?usp=sharing)  
+📄 Resume: [Link](https://drive.google.com/file/d/1Qw7U6OXQ9kcC6stubP-7XE3IRZX0s7ct/view?usp=sharing)  
 🔗 LinkedIn: [janak-avhad](https://www.linkedin.com/in/janak-avhad/)  
 📫 Email: [avhadjanak@gmail.com](mailto:avhadjanak@gmail.com)  
 💻 GitHub: [janak27](https://github.com/janak27) | LeetCode: [avhadjanak](https://leetcode.com/avhadjanak)
